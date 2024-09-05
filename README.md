@@ -1,7 +1,7 @@
 ### Hi there, I'm Oussama 👋
 
 
-## I'm a Devops & Developer  !! 
+## I'm a DevOps & Developer  !! 
 
 
 
@@ -18,11 +18,10 @@
   <a href="https://www.jenkins.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/></a>
   <a href="https://portal.azure.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/></a>
-  <a href="https://prometheus.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/></a>
+<!--   <a href="https://prometheus.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/></a>
-  <a href="https://datadog.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg"/></a>
+  <a href="https://datadog.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg"/></a> -->
   <a href="https://terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"/></a>
- <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.reactjs.com"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" width="40"/></a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
