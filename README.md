@@ -1,7 +1,7 @@
 ### Hi there, I'm Oussama 👋
 
 
-## I'm a DevOps & Developer  !! 
+## I'm a Web Developer & DevOps Engineer  !! 
 
 
 
