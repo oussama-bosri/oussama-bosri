@@ -15,7 +15,7 @@ I thrive in bridging the gap between development and operations using modern Dev
 - 🌍 Based in Algeria 🇩🇿  
 - 🛠️ Currently working on GCP/GKE CI/CD pipelines with Jenkins and Terraform  
 - 🎯 Always learning new tools & frameworks  
-- 🌐 Portfolio: [oussamabosri.com](https://oussamabosri.com)
+- 🌐 Portfolio: [oussamabosri.com](https://oussama-bosri.vercel.app/)
 
 ---
 
