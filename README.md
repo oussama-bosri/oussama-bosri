@@ -81,7 +81,7 @@
     <img alt="Oussama | LinkedIn" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://oussamabosri.com" target="_blank">
+  <a href="https://oussama-bosri.vercel.app/" target="_blank">
     <img alt="Oussama | Website" width="30" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />
   </a>
 </p>
