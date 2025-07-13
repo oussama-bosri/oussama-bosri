@@ -14,7 +14,7 @@
 - ☁️ Experienced with GCP, AWS, and Kubernetes for modern infrastructure.
 - 🎯 Passionate about automation, observability, and scalable systems.
 
-🌍 **Website**: [oussamabosri.com](https://oussama-bosri.vercel.app/)  
+🌍 **Portfolio**: [oussama-bosri.vercel.app](https://oussama-bosri.vercel.app)  
 🔗 **LinkedIn**: [linkedin.com/in/bosri-oussama](https://www.linkedin.com/in/bosri-oussama/)
 
 ---
@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelali12-codes&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali12-codes&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oussama-bosri&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-bosri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
     <img alt="Oussama | LinkedIn" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://oussama-bosri.vercel.app/" target="_blank">
+  <a href="https://oussama-bosri.vercel.app" target="_blank">
     <img alt="Oussama | Website" width="30" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />
   </a>
 </p>
