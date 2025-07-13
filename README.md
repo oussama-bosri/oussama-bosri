@@ -10,11 +10,11 @@
 ## 🚀 About Me
 
 - 🔧 I work at the intersection of Dev and Ops, building CI/CD pipelines and cloud-native systems.
-- 👨‍💻 Skilled in creating end-to-end web applications with Angular, Node.js, and MongoDB.
+- 👨‍💻 Skilled in creating end-to-end web applications with Angular, React, Node.js, and MongoDB.
 - ☁️ Experienced with GCP, AWS, and Kubernetes for modern infrastructure.
 - 🎯 Passionate about automation, observability, and scalable systems.
 
-🌍 **Website**: [oussamabosri.com](https://oussamabosri.com)  
+🌍 **Website**: [oussamabosri.com](https://oussama-bosri.vercel.app/)  
 🔗 **LinkedIn**: [linkedin.com/in/bosri-oussama](https://www.linkedin.com/in/bosri-oussama/)
 
 ---
@@ -24,6 +24,7 @@
 ### 💻 Frontend & Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
@@ -86,12 +87,3 @@
 </p>
 
 ---
-
-## 🌟 Highlight Projects *(optional)*
-
-You can add this section if you'd like to feature your best projects:
-
-```markdown
-- 🚀 [GKE CI/CD with Jenkins & Terraform](https://github.com/Abdelali12-codes/jenkins-gke-pipeline)
-- 🧰 [Angular + Node.js Portfolio App](https://github.com/Abdelali12-codes/angular-portfolio)
-- 🔭 [Monitoring Stack with Prometheus & Grafana](https://github.com/Abdelali12-codes/prometheus-grafana-setup)
